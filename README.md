@@ -1,4 +1,4 @@
-## Olá, eu sou a Douglas Reis !
+## Olá, eu sou o Douglas Reis !
 <div align="center">
 
   <a href="https://github.com/douglasrx1s">
